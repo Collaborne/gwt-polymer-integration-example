@@ -1,2 +1,2 @@
 # gwt-polymer-integration-example
-Example how to create Polymer components with GWT
+Example application that uses Polymer components created with GWT
